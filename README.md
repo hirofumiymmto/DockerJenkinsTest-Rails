@@ -1,1 +1,1 @@
-# newStaginTest-Rails
+# newStagingTest-Rails
