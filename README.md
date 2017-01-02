@@ -1,1 +1,1 @@
-# DockerJenkinsTest-Rails
+# JenkinsTest-Rails
